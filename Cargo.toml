@@ -1,0 +1,16 @@
+[package]
+name = "anpcli"
+version = "0.1.0"
+edition = "2021"
+authors = ["Junan Lu <345842425@qq.com>"]
+description = "A command line argument parser, which is simple, easy to use and highly customizable"
+homepage = "https://github.com/anzai3458/anpcli"
+repository = "https://github.com/anzai3458/anpcli"
+readme = "README.md"
+license-file = "LICENSE"
+keywords = ["cli", "commandline", "parser", "option", "argument"]
+categories = ["command-line-interface", "command-line-utilities"]
+publish = false
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
